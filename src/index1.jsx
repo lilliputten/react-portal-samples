@@ -2,7 +2,7 @@
 /** @module index1
  *  @descr Portal samples
  *  @since 2019.06.27, 15:30
- *  @changed 2019.06.27, 15:30
+ *  @changed 2019.06.27, 16:09
  */
 
 import '@babel/polyfill';
