@@ -1,0 +1,27 @@
+<!--
+ @since 2019.06.27, 15:32
+ @changed 2019.06.27, 15:32
+-->
+
+## Project config files
+
+- `.git/config`
+- `package.json`
+- ~~`webpack.env.js`~~
+- `webpack.config.js`
+- `babel.config.js`
+- `.lvimrc`
+- `.editorconfig`
+- ~~`gulpfile.js`~~
+- ~~`jest.config.js`~~
+- `.eslintrc.yml`
+- `.eslintignore`
+- `.stylelintrc.yml`
+- `.stylelintignore`
+
+## Project variants
+
+ - [Version 1: redux](src/index1.jsx)
+ - [Version 2: redux-thunk](src/index2.jsx)
+ - [Version 3: redux-thunk](src/index3.jsx)
+

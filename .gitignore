@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+tags
+node_modules
+python_modules
+\!UNUSED*
+\!ARC*
+
+/build*
+
+.webpack-stats.json
+
+!__mocks__
+!__snapshots__
+
+# Vim sessions:
+*.session

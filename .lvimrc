@@ -1,0 +1,20 @@
+" vim: ft=vim
+
+let g:ale_linters = {
+\   'javascript': [ 'eslint' ],
+\   'less': [ 'stylelint' ],
+\   'pcss': [ 'stylelint' ],
+\}
+
+" variants:
+" \   'typescript': [ 'tslint' ],
+" \   'typescript': [ 'tsserver' ],
+" \   'python': [ 'flake8' ],
+
+let g:ale_css_stylelint_options = '--syntax scss'
+let g:ale_stylus_stylelint_options = '--syntax scss'
+let g:ale_postcss_stylelint_options = '--syntax scss'
+let g:ale_less_stylelint_options = '--syntax scss'
+
+" " -- FOLDING --
+" set fdm=marker
